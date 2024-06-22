@@ -8,7 +8,7 @@ import NotVerifyScreen from './src/Screens/NotVerifyScreen';
 export default function App() {
   return (
     <NativeBaseProvider>
-    <LoginScreen/>
+    <HomeScreen/>
   </NativeBaseProvider>
   );
 }
